@@ -1,0 +1,1 @@
+python main.py -mm d -tm 4 -b conv=8,fc=5 -ep 230 -reep 20 -sd model_deepcompression
